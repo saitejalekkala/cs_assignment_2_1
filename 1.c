@@ -1,3 +1,9 @@
+/*
+Q) C program to add very large numbers.
+  if length of 1st number =m , length of second number =n, (m>n)
+  Time complexity- O(m), 
+  Space complexity - O(m).
+*/
 #include<stdio.h>
 #include<string.h>
 int max(int x,int y){
